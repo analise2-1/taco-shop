@@ -41,6 +41,8 @@ The `index.html` file contains everything you'll need to get started. The `<body
 
 Find the div that is nested inside the `<main>` tags that has an id="menu" attribute. This div currently contains two nested child divs that each have class="menu-item" attributes.
 
+Add some additional menu items to the menu. You can copy one of the class="menu-item" divs and paste it for each new item - just change the image urls and text for each new item you add.
+
 ### Todo 2 - Add an Event Listener
 
 There are a couple pieces of code to add to make sure that the button is working and responding to being clicked. All of the code from here on will be added to the `<script>` tags that are at the bottom of the `<body>` element.
