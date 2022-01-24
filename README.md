@@ -3,7 +3,7 @@ Taco Shop Simulator
 
 Let's make a taco shop!!
 
-** Table of Contents **
+## Table of Contents
 - [Overview](#overview)
 - [Project Installation](#project-installation)
 - [Project Steps](#project-steps)
@@ -24,7 +24,7 @@ After you download this project, you'll have some basic
 
 To install this project, you'll want to have your gitpod workspace open with the terminal running. Enter the following commands one at a time:
 
-* `git clone https://github.com/OperationSpark/fsd-setup.git` // CHANGE THISSSSSSSSS
+* `git clone https://github.com/gregthompson27/taco-shop.git`
 * `chmod +x taco-shop/setup.sh`
 * `./taco-shop/setup.sh`
 * `rm -rf ./taco-shop/setup.sh`
