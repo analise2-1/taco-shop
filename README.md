@@ -18,7 +18,7 @@ In this simulation activity, you'll be be adding functionality to take an order 
 
 You'll start by expanding the menu a bit, but the main focus of this activity is adding functionality to calculate a customer's total when they order.
 
-After you download this project, you'll have some basic 
+After you download this project, you'll have some basic code that will allow you to build out a simple taco shop.
 
 ## Project Installation
 
