@@ -25,7 +25,7 @@ After you download this project, you'll have some basic code that will allow you
 To install this project, you'll want to have your gitpod workspace open with the terminal running. Enter the following commands one at a time:
 
 * `git clone https://github.com/gregthompson27/taco-shop.git`
-* `chmod +x taco-shop/setup.sh`
+* `chmod +x ./taco-shop/setup.sh`
 * `./taco-shop/setup.sh`
 * `rm -rf ./taco-shop/setup.sh`
 
