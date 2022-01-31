@@ -110,3 +110,19 @@ alert('The total for your order is ' + total + '. We\'ll have it out shortly. Th
 ```
 
 And there you have your very own virtual taco shop!
+
+### Pushing Code - Make it Go Live
+
+To push your code to github, you'll want to run the following git commands:
+
+`git add .`
+
+`git commit -m "<custom message that describes changes>"`
+
+`git push`
+
+If you want to add a link to this simulation to your portfolio.html so that it is easily accessible on your live site, you'll want to add a similar line of code to the list you already have. That line will look something like this:
+
+``` html
+<li><a href="simulation/taco-shop/">Taco Shop - What are You Eating for Lunch Today?</a></li>
+```
