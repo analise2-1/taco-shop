@@ -11,6 +11,7 @@ Let's make a taco shop!!
     - [TODO 1 - Add Menu Items](#todo-1-add-menu-items)
     - [TODO 2 - Add a Click Listener](#todo-2-add-a-click-listener)
     - [TODO 3 - Add Functionality to Calculate Cost](#todo-3-add-functionality-to-calculate-cost)
+    - [Push Your Code](#pushing-code---make-it-go-live)
 
 ## Overview
 
