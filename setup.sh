@@ -5,4 +5,5 @@ else
     cd taco-shop
     rm -rf .git* .master
     rm -rf README.md
+    cd ..
 fi
