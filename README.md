@@ -23,14 +23,14 @@ After you download this project, you'll have some basic code that will allow you
 
 ## Project Installation
 
-To install this project, you'll want to have your gitpod workspace open with the terminal running. Enter the following commands one at a time:
+To install this project, you'll want to have your GitHub codespace (or Gitpod workspace) open with the terminal running. Enter the following commands one at a time:
 
 * `git clone https://github.com/gregthompson27/taco-shop.git`
 * `chmod +x ./taco-shop/setup.sh`
 * `./taco-shop/setup.sh`
 * `rm -rf ./taco-shop/setup.sh`
 
-Then, create a folder named 'simulations' in your gitpod workspace and drag the taco-shop folder over to that simulations folder. If you'd like to change the name of the project, you can right click on the folder name and select "Rename".
+Then, drag the `taco-shop` folder into your `projects` folder. If you'd like to change the name of the project, you can right click on the folder name and select "Rename".
 
 ## Project Steps
 
